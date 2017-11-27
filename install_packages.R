@@ -21,7 +21,7 @@ install.packages(
 # Github
 devtools::install_github("hebrewseniorlife/prettymemo")
 devtools::install_github("hebrewseniorlife/coretools")
-# test222
+# test2223
 # Bio conductor
 # Please uncomment the following code if you need to install 
 # packages from bioconductor in the future
