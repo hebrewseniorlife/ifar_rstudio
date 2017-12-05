@@ -14,7 +14,7 @@ install.packages(
     "sparklyr",  "testthat", "xml2",
     "timevis", "ggpmisc", "rcrossref", "geepack", "rpart", 
     "deming", "gtools", "magrittr", 
-    "car", "plotly"),
+    "car", "plotly", "irr"),
   repos = "https://cloud.r-project.org/"
 )
 
