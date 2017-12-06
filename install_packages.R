@@ -2,21 +2,7 @@
 
 # CRAN packages
 install.packages(
-  c("tidyverse", "ezsummary", 
-    "knitr", "rmarkdown", "shiny", "REDCapR",
-    "viridis", "sas7bdat", "devtools",
-    "bookdown", "DT", "shinythemes",
-    "highcharter", "ggthemes", 
-    "data.table", "DiagrammeR", "fastmatch",
-    "formatR", "gridExtra", "Hmisc", "grid",
-    "httr", "htmltools", "jsonlite", "lattice", "leaflet",
-    "mailR", "miniUI", "nlme", "pander", "pkgcopier", "purrr",
-    "quantmod", "rcrossref", "roxygen2",
-    "rticles", "scatterD3", "shinydashboard", "shinyjs",
-    "sparklyr",  "testthat", "xml2",
-    "timevis", "ggpmisc", "rcrossref", "geepack", "rpart", 
-    "deming", "gtools", "magrittr", 
-    "car", "plotly", "irr"),
+  c("tidyverse", "bookdown", "broom", "car", "data.table", "deming", "devtools", "DiagrammeR", "DT", "ezsummary", "fastmatch", "formatR", "geepack", "ggpmisc", "ggridges", "ggthemes", "grid", "gridExtra", "gtools", "haven", "highcharter", "Hmisc", "htmltools", "httr", "irr", "jsonlite", "kable", "kableExtra", "knitr", "lattice", "leaflet", "MASS", "magrittr", "mailR", "miniUI", "nlme", "pander", "pkgcopier", "plotly", "purrr", "psych", "quantmod", "rcrossref", "REDCapR", "rmarkdown", "roxygen2", "rpart", "rticles", "sas7bdat", "scatterD3", "shiny", "shinydashboard", "shinyjs", "shinythemes", "sparklyr", "stringi", "survival", "testthat", "timevis", "viridis", "xml2" ),
   repos = "https://cloud.r-project.org/"
 )
 
