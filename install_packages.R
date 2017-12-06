@@ -1,3 +1,5 @@
+# Please search on this page before you put in new package names. 
+
 # CRAN packages
 install.packages(
   c("tidyverse", "ezsummary", 
