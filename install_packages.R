@@ -10,9 +10,6 @@ install.packages(
 devtools::install_github("hebrewseniorlife/prettymemo")
 devtools::install_github("hebrewseniorlife/coretools")
 
-# Python libs
-keras::install_keras(extra_packages = c("pandas", "matplotlib", "seaborn"))
-
 # Bio conductor
 # Please uncomment the following code if you need to install 
 # packages from bioconductor in the future
