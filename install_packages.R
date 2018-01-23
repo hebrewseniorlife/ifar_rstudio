@@ -30,4 +30,4 @@ devtools::install_github("hebrewseniorlife/coretools")
 # biocLite("") # Fill in the package name here
 
 # Install local package
-devtools::install_local("/Home/haozhu/work/ifar")
+devtools::install_local("/home/haozhu/work/ifar")
