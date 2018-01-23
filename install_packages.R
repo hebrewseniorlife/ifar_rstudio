@@ -28,3 +28,6 @@ devtools::install_github("hebrewseniorlife/coretools")
 # packages from bioconductor in the future
 # source("https://bioconductor.org/biocLite.R")
 # biocLite("") # Fill in the package name here
+
+# Install local package
+devtools::install_local("/Home/haozhu/work/ifar")
