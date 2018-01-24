@@ -22,6 +22,7 @@ install.packages(
 # Github
 devtools::install_github("hebrewseniorlife/prettymemo")
 devtools::install_github("hebrewseniorlife/coretools")
+devtools::install_github("r-lib/pkgdown")
 
 # Bio conductor
 # Please uncomment the following code if you need to install 
