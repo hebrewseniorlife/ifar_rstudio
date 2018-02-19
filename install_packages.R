@@ -9,7 +9,7 @@ install.packages(
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
     "lattice", "leaflet", "MASS", "magrittr", "mailR", 
-    "miniUI", "neurobase", "nlme", "pander", "pkgcopier", 
+    "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
     "plotly", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
