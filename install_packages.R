@@ -10,7 +10,7 @@ install.packages(
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
     "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", 
     "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
-    "plotly", "polycor", "purrr", "psych", "quantmod", "rcrossref", 
+    "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
     "shinydashboard", "shinyjs", "shinythemes", "sparklyr", 
@@ -20,7 +20,7 @@ install.packages(
 )
 
 # Github
-devtools::install_github("hebrewseniorlife/prettymemo")
+devtools::install_github("hebrewseniorlife/memor")
 devtools::install_github("hebrewseniorlife/coretools")
 devtools::install_github("r-lib/pkgdown")
 
