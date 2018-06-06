@@ -22,6 +22,7 @@ install.packages(
 # Github
 devtools::install_github("hebrewseniorlife/memor")
 devtools::install_github("hebrewseniorlife/coretools")
+devtools::install_github("hebrewseniorlife/ro2")
 devtools::install_github("r-lib/pkgdown")
 
 # Bio conductor
