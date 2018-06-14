@@ -8,14 +8,14 @@ install.packages(
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", 
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix",
     "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
     "shinydashboard", "shinyjs", "shinythemes", "sparklyr", 
     "stringi", "survival", "testthat", "timevis", 
-    "viridis", "xgboost", "xml2" ),
+    "viridis", "writexl", "xgboost", "xml2" ),
   repos = "https://cloud.r-project.org/"
 )
 
