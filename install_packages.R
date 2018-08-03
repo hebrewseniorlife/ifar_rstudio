@@ -8,7 +8,7 @@ install.packages(
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix",
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "memor",
     "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
@@ -20,7 +20,6 @@ install.packages(
 )
 
 # Github
-devtools::install_github("hebrewseniorlife/memor")
 devtools::install_github("hebrewseniorlife/coretools")
 devtools::install_github("hebrewseniorlife/ro2")
 devtools::install_github("r-lib/pkgdown")
