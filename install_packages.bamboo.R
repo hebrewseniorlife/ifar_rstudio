@@ -5,7 +5,7 @@ list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "care
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", 
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "memor",
     "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
@@ -20,7 +20,6 @@ new.packages <- list.of.packages[!(list.of.packages %in% installed.packages()[,"
 if(length(new.packages)) install.packages(new.packages, repos = "https://cloud.r-project.org/");
 
 # Github
-devtools::install_github("hebrewseniorlife/memor");
 devtools::install_github("hebrewseniorlife/coretools");
 devtools::install_github("r-lib/pkgdown");
 
