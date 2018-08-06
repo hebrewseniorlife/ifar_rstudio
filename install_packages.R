@@ -13,7 +13,7 @@ install.packages(
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
-    "shinydashboard", "shinyjs", "shinythemes", "sparklyr", 
+    "shinydashboard", "shinyjs", "shinythemes", "slackr", "sparklyr", 
     "stringi", "survival", "testthat", "timevis", 
     "viridis", "writexl", "xgboost", "xml2" ),
   repos = "https://cloud.r-project.org/"
