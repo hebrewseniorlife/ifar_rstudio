@@ -5,7 +5,7 @@ list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "care
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "memor",
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "memor", "meta", 
     "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
