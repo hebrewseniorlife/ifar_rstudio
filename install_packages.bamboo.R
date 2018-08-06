@@ -10,7 +10,7 @@ list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "care
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
-    "shinydashboard", "shinyjs", "shinythemes", "sparklyr", 
+    "shinydashboard", "shinyjs", "shinythemes", "slackr", "sparklyr", 
     "stringi", "survival", "testthat", "timevis", 
     "viridis", "xgboost", "xml2",
     "googlesheets", "dplyr", "tinytex");
