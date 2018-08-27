@@ -8,7 +8,7 @@ list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "care
     "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "memor", "meta", 
     "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
-    "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
+    "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", "rcrossref", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
     "shinydashboard", "shinyjs", "shinythemes", "slackr", "sparklyr", 
     "stringi", "survival", "testthat", "timevis", 
