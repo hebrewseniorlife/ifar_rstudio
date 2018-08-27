@@ -1,5 +1,5 @@
 # Please search on this page before you put in new package names. 
-list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "caret", "data.table", 
+list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "caret", "citr", "data.table", 
     "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "ezsummary", 
     "fastmatch", "formatR", "geepack", "ggpmisc", "ggridges", 
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
