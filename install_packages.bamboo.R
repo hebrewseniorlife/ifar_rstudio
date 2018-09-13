@@ -1,6 +1,6 @@
 # Please search on this page before you put in new package names. 
 list.of.packages <- c("tidyverse", "bookdown", "broom", "blogdown", "car", "caret", "citr", "data.table", 
-    "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "ezsummary", 
+    "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "ezsummary", "extrafont", 
     "fastmatch", "formatR", "geepack", "ggpmisc", "ggridges", 
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
