@@ -9,7 +9,7 @@ install.packages(
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
     "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "memor", "meta", 
-    "miniUI", "MplusAutomation", "neurobase", "nlme", "pander", "pkgcopier", 
+    "miniUI", "MplusAutomation", "neurobase", "nlme", "odbc", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
@@ -24,7 +24,7 @@ devtools::install_github("hebrewseniorlife/coretools")
 devtools::install_github("hebrewseniorlife/ro2")
 devtools::install_github("r-lib/pkgdown")
 # devtools::install_github("thomasp85/transformr")
-# devtools::install_github('thomasp85/gganimate')
+devtools::install_github('thomasp85/gganimate')
 
 # Bio conductor
 # Please uncomment the following code if you need to install 
