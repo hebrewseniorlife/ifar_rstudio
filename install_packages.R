@@ -10,7 +10,7 @@ install.packages(
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
     "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "memor", "meta", 
     "miniUI", "MplusAutomation", "neurobase", "nlme", "odbc", "pander", "pkgcopier", 
-    "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "rcrossref", 
+    "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "radix", "rcrossref", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
     "shinydashboard", "shinyjs", "shinythemes", "slackr", "sparklyr", 
