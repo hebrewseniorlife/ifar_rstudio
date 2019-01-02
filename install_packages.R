@@ -33,5 +33,4 @@ devtools::install_github('thomasp85/gganimate')
 # biocLite("") # Fill in the package name here
 
 # Install local package
-devtools::install_local("/home/haozhu/work/ifar")
 devtools::install_git("ssh://git@ifar-stash.hsl.harvard.edu:7999/irp/mobilityandfall.git", credentials = git2r::cred_ssh_key())
