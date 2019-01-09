@@ -10,7 +10,7 @@ install.packages(
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
     "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "memor", "meta", 
     "miniUI", "MplusAutomation", "neurobase", "nlme", "odbc", "pander", "pkgcopier", 
-    "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "radix", "rcrossref", 
+    "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "radix", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
     "shinydashboard", "shinyjs", "shinythemes", "slackr", "sparklyr", 
@@ -22,6 +22,7 @@ install.packages(
 # Github
 devtools::install_github("hebrewseniorlife/coretools")
 devtools::install_github("hebrewseniorlife/ro2")
+devtools::install_github("ropensci/rcrossref")
 devtools::install_github("r-lib/pkgdown")
 # devtools::install_github("thomasp85/transformr")
 devtools::install_github('thomasp85/gganimate')
