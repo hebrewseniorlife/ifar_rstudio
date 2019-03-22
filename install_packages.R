@@ -8,7 +8,7 @@ install.packages(
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", 
     "jsonlite", "kable", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "memor", "meta", 
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", 
     "miniUI", "MplusAutomation", "neurobase", "nlme", "odbc", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "radix", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", 
@@ -26,6 +26,7 @@ devtools::install_github("ropensci/rcrossref")
 devtools::install_github("r-lib/pkgdown")
 # devtools::install_github("thomasp85/transformr")
 devtools::install_github('thomasp85/gganimate')
+devtools::install_github("hebrewseniorlife/memor")
 
 # Bio conductor
 # Please uncomment the following code if you need to install 
