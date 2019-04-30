@@ -27,6 +27,7 @@ devtools::install_github("ropensci/rcrossref")
 devtools::install_github("r-lib/pkgdown")
 devtools::install_github('thomasp85/gganimate')
 devtools::install_github("hebrewseniorlife/memor")
+devtools::install_github("hebrewseniorlife/rmdWidgets")
 
 # Bio conductor
 # Please uncomment the following code if you need to install 
