@@ -13,7 +13,7 @@ install.packages(
     "odbc", "ordinal", "pan", "pander", "pkgcopier", 
     "plotly", "polycor", "prettydoc", "purrr", "psych", "quantmod", "radix", 
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", "rpart.plot", "RSQLite",
-    "rticles", "sas7bdat", "scatterD3", "servr", "shiny", 
+    "rticles", "sas7bdat", "scatterD3", "servr", "shiny", "shinycssloaders",
     "shinydashboard", "shinyjs", "shinythemes","simputation", "slackr", "sparklyr", 
     "stringi", "survival", "testthat", "timevis", "ucminf", "UpSetR",
     "viridis", "visdat", "writexl", "xgboost", "xml2" ),
