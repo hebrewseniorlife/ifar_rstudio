@@ -16,7 +16,7 @@ install.packages(
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", "shinycssloaders",
     "shinydashboard", "shinyjs", "shinythemes","simputation", "slackr", "sparklyr", 
     "stringi", "survival", "testthat", "timevis", "ucminf", "UpSetR",
-    "viridis", "visdat", "writexl", "xgboost", "xml2" ),
+    "viridis", "visdat", "writexl", "whoami", "xgboost", "xml2" ),
   repos = "https://cloud.r-project.org/"
 )
 
