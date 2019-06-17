@@ -11,7 +11,7 @@ install.packages(
     "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", "mice", 
     "miniUI", "mitml", "MplusAutomation", "neurobase", "nlme", "naniar",
     "odbc", "ordinal", "pan", "pander", "pkgcopier", 
-    "plotly", "polycor", "pracma", "prettydoc", "purrr", "psych", "quantmod", "radix", 
+    "plotly", "polycor", "pracma", "prettydoc", "purrr", "psych", "quantmod", "radix", "recipes",
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", "rpart.plot", "RSQLite",
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", "shinycssloaders",
     "shinydashboard", "shinyjs", "shinythemes","simputation", "signal", "slackr", "sparklyr", "sparkline",
