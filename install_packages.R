@@ -2,7 +2,7 @@
 
 # CRAN packages
 install.packages(
-  c("tidyverse", "tidymodels", "bookdown", "broom", "blogdown", "car", "caret", "citr", "data.table", 
+  c("tidyverse", "bookdown", "broom", "blogdown", "car", "caret", "citr", "data.table", 
     "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "extrafont", 
     "fastmatch", "flexdashboard", "formatR", "geepack", "ggpmisc", "ggridges", 
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
