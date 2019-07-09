@@ -8,7 +8,7 @@ install.packages(
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", "jomo", 
     "jsonlite", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", "mice", 
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", "mice", "miceadds",
     "miniUI", "mitml", "MplusAutomation", "neurobase", "nlme", "naniar",
     "odbc", "ordinal", "pan", "pander", "pkgcopier", 
     "plotly", "polycor", "pracma", "prettydoc", "purrr", "psych", "quantmod", "radix", "recipes",
