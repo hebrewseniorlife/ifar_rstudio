@@ -4,11 +4,11 @@
 install.packages(
   c("tidyverse", "bookdown", "broom", "blogdown", "bs4Dash", "car", "caret", "citr", "data.table", 
     "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "extrafont", 
-    "fastmatch", "flexdashboard", "formatR", "geepack", "ggpmisc", "ggridges", 
+    "fastmatch", "flexdashboard", "formatR", "gamm4", "geepack", "ggpmisc", "ggridges", 
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", "jomo", 
     "jsonlite", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", "mice", "miceadds",
+    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", "mgcv", "mice", "miceadds",
     "miniUI", "mitml", "MplusAutomation", "neurobase", "nlme", "naniar",
     "odbc", "ordinal", "pan", "pander", "pkgcopier", 
     "plotly", "polycor", "pracma", "prettydoc", "purrr", "psych", "quantmod", "radix", "randomForest", "recipes",
