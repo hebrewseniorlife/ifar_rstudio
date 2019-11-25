@@ -3,19 +3,19 @@
 # CRAN packages
 install.packages(
   c("tidyverse", "bookdown", "broom", "blogdown", "bs4Dash", "car", "caret", "citr", "data.table", 
-    "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "extrafont", 
+    "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "elasticnet", "extrafont", 
     "fastmatch", "flexdashboard", "formatR", "gamm4", "geepack", "ggpmisc", "ggridges", 
     "ggthemes", "grid", "gridExtra", "gtools", "haven", 
     "highcharter", "Hmisc", "htmltools", "httr", "irr", "jomo", 
     "jsonlite", "kableExtra", "keras", "knitr", 
-    "lattice","lavaan", "leaflet", "MASS", "magrittr", "mailR", "mathpix", "meta", "mgcv", "mice", "miceadds",
+    "lattice", "lavaan", "leaflet", "lme4", "MASS", "magrittr", "mailR", "mathpix", "meta", "mgcv", "mice", "miceadds",
     "miniUI", "mitml", "MplusAutomation", "neurobase", "nlme", "naniar",
     "odbc", "ordinal", "pan", "pander", "pkgcopier", 
-    "plotly", "polycor", "pracma", "prettydoc", "purrr", "psych", "quantmod", "radix", "randomForest", "recipes",
+    "plotly", "polycor", "pracma", "prettydoc", "purrr", "psych", "quantmod", "radix", "randomForest", "recipes", "rpart",
     "REDCapR", "rmarkdown", "ROCR", "roxygen2", "rpart", "rpart.plot", "RSQLite",
     "rticles", "sas7bdat", "scatterD3", "servr", "shiny", "shinycssloaders",
-    "shinydashboard", "shinyjs", "shinythemes","simputation", "signal", "slackr", "sparklyr", "sparkline",
-    "stringi", "survival", "testthat", "timevis", "ucminf", "UpSetR",
+    "shinydashboard", "shinyjs", "shinythemes","simputation", "signal", "slackr", "sparklyr", "sparkline", "sparsepca",
+    "stringi", "stringr",  "survival", "testthat", "timevis", "ucminf", "UpSetR",
     "viridis", "visdat", "writexl", "whoami", "xgboost", "xml2" ),
   repos = "https://cloud.r-project.org/"
 )
