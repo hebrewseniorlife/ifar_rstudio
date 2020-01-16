@@ -5,7 +5,7 @@ install.packages(
   c("tidyverse", "bookdown", "broom", "blogdown", "bs4Dash", "car", "caret", "citr", "data.table", 
     "deming", "devtools", "DiagrammeR", "DT", "dtplyr", "elasticnet", "extrafont", 
     "fastmatch", "flexdashboard", "formatR", "gamm4", "geepack", "ggpmisc", "ggridges", 
-    "ggthemes", "grid", "gridExtra", "gtools", "haven", 
+    "ggthemes", "grid", "gridExtra", "gtools", "haven", "here",
     "highcharter", "Hmisc", "htmltools", "httr", "irr", "jomo", 
     "jsonlite", "kableExtra", "keras", "knitr", 
     "lattice", "lavaan", "leaflet", "lme4", "MASS", "magrittr", "mailR", "mathpix", "meta", "mgcv", "mice", "miceadds",
