@@ -17,7 +17,7 @@ install.packages(
     "shinydashboard", "shinyjs", "shinythemes","simputation", "signal", "slackr", "sparklyr", "sparkline", "sparsepca",
     "stringi", "stringr",  "survival", "testthat", "timevis", "ucminf", "UpSetR",
     "viridis", "visdat", "writexl", "whoami", "xgboost", "xml2" ),
-  repos = "https://cloud.r-project.org/"
+  repos = "https://packagemanager.posit.co/cran/__linux__/jammy/latest"
 )
 
 # Github
@@ -36,6 +36,6 @@ devtools::install_github("hebrewseniorlife/rmdWidgets")
 # biocLite("") # Fill in the package name here
 
 # Install local package
-devtools::install_git("ssh://git@ifar-stash.hsl.harvard.edu:7999/irp/mobilityandfall.git", credentials = git2r::cred_ssh_key())
-devtools::install_git("ssh://git@ifar-stash.hsl.harvard.edu:7999/irp/marcus.git", credentials = git2r::cred_ssh_key())
+# devtools::install_git("ssh://git@ifar-stash.hsl.harvard.edu:7999/irp/mobilityandfall.git", credentials = git2r::cred_ssh_key())
+# devtools::install_git("ssh://git@ifar-stash.hsl.harvard.edu:7999/irp/marcus.git", credentials = git2r::cred_ssh_key())
 

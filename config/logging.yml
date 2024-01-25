@@ -1,0 +1,32 @@
+version: 1
+formatters:
+  simple:
+    format: '%(message)s'
+handlers:
+  console:
+    class: logging.StreamHandler
+    level: INFO
+    formatter: simple
+    stream: ext://sys.stdout
+  install_file:
+    class: logging.FileHandler
+    level: INFO
+    formatter: simple
+    filename: install_package_dependencies.sh    
+  log_file:
+    class: logging.FileHandler
+    level: DEBUG
+    formatter: simple
+    filename: log/r_package_dependencies.log       
+loggers:
+  install_file:
+    level: INFO
+    handlers: [install_file]
+    propagate: no
+  trace:
+    level: DEBUG
+    handlers: [console, log_file]
+    propagate: no    
+root:
+  level: DEBUG
+  handlers: [console]
